@@ -29,12 +29,6 @@ section {
     padding: 2em;
 }
 
-.scroll {
-    height: 24em;
-    overflow: scroll;
-    padding: 0;
-    margin: 1em;
-}
 
 .box {
     border: 1px solid black;
@@ -61,7 +55,7 @@ section {
 
 
 .group .profiles {
-    width: 11.4em;
+    width: 80%;
     height: 11.4em;
     background-color: transparent;
     border-radius: 0;
