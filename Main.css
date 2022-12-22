@@ -1,0 +1,83 @@
+img {
+    width: 100%;
+    height: 100%;
+    vertical-align: bottom;
+}
+
+h1 {
+    margin: 1em 0 0.3em;
+}
+
+h2 {
+    margin: 0.3em 0 0 0;
+}
+
+p {
+    margin: 0.3em 0 0.4em 0;
+}
+
+.clear {
+    clear: both;
+}
+
+section {
+    background-color: #cccdc6;
+    border: 0px solid black;
+    text-align: center;
+    border-radius: 15px 50px 50px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    padding: 2em;
+}
+
+
+.box {
+    border: 1px solid black;
+    border-radius: 2em;
+    overflow: hidden;
+    background-color: #e8e9eb;
+    vertical-align: middle;
+    text-align: left;
+    margin: 0.6em;
+}
+
+
+.group div {
+    float: left;
+    border-radius: 1em;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+.group .profilePic {
+    width: 12em;
+    padding: 0;
+}
+
+
+.group .profiles {
+    width: 80%;
+    height: 11.4em;
+    background-color: transparent;
+    border-radius: 0;
+    border: 0;
+    padding: 0 0.5em;
+}
+
+body {
+    height: 100em;
+    position: relative;
+    margin: 1em 2em;
+    background-color: #bbbcb6;
+    font-family: sans-serif, serif;
+    padding: 0 0 7em 0;
+    
+}
+
+.wrapper {
+    margin: 3em;
+}
+
+/* Add padding to container elements */
+.container {
+    padding: 30px;
+}
